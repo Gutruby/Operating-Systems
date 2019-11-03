@@ -1,1 +1,1 @@
-An operating systems controls the software and hardware of a computer. It is essential to operating a computer.
+An operating systems controls the software and hardware of a computer. It is essential to operating a computer. An OS provides a graphical user interface with allows a user to create word documents and browse the interent as well as store media such as photos and music.
